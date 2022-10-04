@@ -1,0 +1,248 @@
+html body{
+    margin: 0;
+    padding: 0;
+}
+.d1{
+    background-image: url(image-header.PNG);
+    height: 676px;
+}
+.header{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin-left: 890px;
+}
+ul li{
+    list-style: none;
+    margin-left: 20px;
+    color: white;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: black;
+  
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+#create{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-size: 40px;
+   font-family: 'Fraunces', serif;
+    
+}
+#arrow{
+   
+    margin-left: 45%;
+    margin-top: 5%;
+   
+ 
+}
+.d2{
+    display: flex;
+}
+div.d2a{
+    height: 600px;
+    width: 50%;
+}
+#box1{
+    background-color: white;
+}
+#trans{
+    color: black;
+    margin-left: 120px;
+    margin-top: 160px;
+    font-family: 'Fraunces', serif;
+}
+#we{
+    margin-left: 120px;
+    margin-right: 190px;
+}
+#learn{
+    color: black;
+    margin-left: 120px;
+    text-decoration: none;
+}
+
+#box2{
+    background-image: url(image-transform.jpg);
+}
+.d3{
+    display: flex;
+}
+div.d3a{
+    height: 600px;
+    width: 50%;
+}
+#box3{
+    background-image: url(image-stand-out.jpg);
+
+}
+#box4{
+    background-color: white;
+}
+#stand{
+    color: black;
+    margin-left: 120px;
+    margin-top: 160px;
+    font-family: 'Fraunces', serif;
+}
+#using{
+    margin-left: 120px;
+    margin-right: 190px;
+}
+
+.d4{
+    display: flex;
+}
+div.d4a{
+    height: 600px;
+    width: 50%;
+}
+#box5{
+    background-image: url(image-graphic-design.jpg);
+
+}
+#graphic{
+    color: black;
+    margin-top: 400px;
+    margin-left: 200px;
+    font-family: 'Fraunces', serif;
+}
+#great{
+    margin-left: 160px;
+    margin-right: 190px;
+}
+#box6{
+    background-image: url(image-photography.jpg);
+}
+#photo{
+    color: black;
+    margin-top: 400px;
+    margin-left: 200px;
+    font-family: 'Fraunces', serif;
+}
+#increase{
+    margin-left: 160px;
+    margin-right: 190px;
+}
+.d5{
+    background-color: white;
+}
+#client{
+    color: gray;
+    margin-left: 40%;
+    font-size: 25px;
+    margin-top: 40px;
+    font-family: 'Fraunces', serif;
+}
+#e{
+    margin-left: 20%;
+}
+#m{
+    margin-left: 12%;
+    color: gray;
+}
+#t{
+    margin-left: 20%;
+}
+#c{
+    margin-left: 12%;
+    color: gray;
+}
+#j{
+    margin-left: 20%;
+}
+#b{
+    margin-left: 15%;
+    color: gray;
+}
+.d55{
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+
+}
+div .d55a{
+height: 300px;
+width: 30%;
+margin-right: 5%;
+
+}
+
+#emily{
+    margin-left: 40%;
+    border-radius: 50%;
+    height: 60px;
+    margin-top: 10%;
+}
+.d6{
+    display: flex;
+}
+div.d6a{
+    
+    width: 25%;
+}
+#box10{
+  background-image: url(image-gallery-milkbottles.jpg);
+  background-size: cover;
+}
+#box11{
+    background-image: url(image-gallery-orange.jpg);
+    background-size: cover;
+}
+#box12{
+   background-image: url(image-gallery-cone.jpg);
+   background-size: cover;
+   height: 400px;
+}
+#box13{
+    background-image: url(image-gallery-sugarcubes.jpg);
+  background-size: cover;
+}
+.d7{
+    background-color:#76D7C4;
+    height: 300px;
+
+
+}
+#suny{
+  color: hsl(167, 40%, 24%);
+    margin: 0;
+    padding: 0;
+    margin-left: 45%;
+   padding-top: 40px;
+    
+}
+ol{
+    display: flex;
+    margin-left: 35%;
+}
+ol li{
+    list-style: none;
+    margin-left: 40px;
+}
+ol li a{
+    color: hsl(167, 40%, 24%);
+    text-decoration: none;
+    
+}
+.socialM{
+    margin-top: 60px;
+    
+}
+#media{
+    margin-left: 550px;
+}
+
+        
+
+
+
