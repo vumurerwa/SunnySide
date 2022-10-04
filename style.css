@@ -64,11 +64,13 @@ div.d2a{
 #we{
     margin-left: 120px;
     margin-right: 190px;
+    color: gray;
 }
 #learn{
     color: black;
     margin-left: 120px;
     text-decoration: none;
+    font-family: 'Fraunces', serif;
 }
 
 #box2{
@@ -97,6 +99,7 @@ div.d3a{
 #using{
     margin-left: 120px;
     margin-right: 190px;
+    color: gray;
 }
 
 .d4{
