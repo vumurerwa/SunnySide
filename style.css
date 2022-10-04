@@ -24,10 +24,11 @@ ul li a{
 }
 ul li a:hover{
     color: black;
-  
+    text-transform: uppercase;
     background-color: white;
     border-radius: 20px;
     padding: 10px;
+    font-size: 10px;
     
 }
 #create{
